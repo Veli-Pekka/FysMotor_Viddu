@@ -1,0 +1,4 @@
+﻿  Main.cpp
+e:\koulu\valamistumiseen vaadittavat\fysmotor\fysmotorv2\main.cpp(25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  FysMotorV2.vcxproj -> E:\Koulu\Valamistumiseen vaadittavat\FysMotor\Debug\FysMotorV2.exe
+  FysMotorV2.vcxproj -> E:\Koulu\Valamistumiseen vaadittavat\FysMotor\Debug\FysMotorV2.pdb (Full PDB)
